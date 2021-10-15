@@ -1,7 +1,6 @@
 # COMP5201-data-path-simulator
 
-COMP5201                       Assignment 3                          Fall 2020
-Computer Organization & Design                               Prof. D.K. Probst
+**COMP5201 Computer Organization & Design**
 
 Write a simulator for the nonpipelined 'fdxmw' data path that can handle
 'mul.d', 'add.d', 'l.d', 's.d', and 'bne'---in a restricted form---but none of

@@ -1,4 +1,4 @@
-# COMP5201-data-path-simulator
+# data-path-simulator
 
 **COMP5201 Computer Organization & Design**
 
